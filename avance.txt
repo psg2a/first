@@ -21,6 +21,7 @@
 6: Edistores de codigo, archivos binarios y de texto plano
 	-> Sublime, Atom, Visual Studio Code, NotePad++
 	-> texto plano (composicion interna), No Binario
+	
 7: Introduccion a la terminal y linea de comandos
 	-> 
 	
