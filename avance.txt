@@ -2,5 +2,4 @@
 	-> 
 2: control de versiones 
 	-> texto plano (composicion interna)
-	-> 
 3: 
