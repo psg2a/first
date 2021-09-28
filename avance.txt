@@ -1,5 +1,26 @@
 1: Git
-	-> 
+	-> Creado por Linus Torvals
 2: control de versiones 
 	-> texto plano (composicion interna)
-3: 
+	-> git status, show , log
+3: Instalando Git y GitBash in Windows
+	-> Git Bash o Command DOS  : Option 2
+	-> OpenSSL (Facilidad Linux), SSH  -> https: cryptografia en el traspaso de informacion
+	-> Version de Conversion: Option 1: Compatible con todos
+	-> Emulator Terminal MinTTY (Linux)
+4: Instalando Git en OSX
+	-> .DMG Archivos de instalacion MAC
+	-> Ya viene todo instalado x defecto
+	-> Kernel BSD
+5: Instalacion en Linux
+	-> apt-get en la forma q se instala software
+	-> apt-get update: analizar y actualizar la lista de paquete
+	-> sudo pass de permiso de administrador
+	-> sudo apt-get upgrade: Actulizar los paquetes instalados
+	-> sudo apt-get install git
+6: Edistores de codigo, archivos binarios y de texto plano
+	-> Sublime, Atom, Visual Studio Code, NotePad++
+	-> texto plano (composicion interna), No Binario
+7: Introduccion a la terminal y linea de comandos
+	-> 
+	
