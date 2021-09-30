@@ -3,6 +3,10 @@ body{
 
 }
 
-div{
+#mycolor{
 	background-color: aquamarine;
+}
+
+#my2color{
+	background-color: rgb(60, 127, 252);
 }
