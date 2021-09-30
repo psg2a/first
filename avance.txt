@@ -24,4 +24,4 @@
 	
 7: Introduccion a la terminal y linea de comandos
 	-> 
-Buen Trabajo
+Aun faltan mas capitulos para mejorar
