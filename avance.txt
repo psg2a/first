@@ -25,3 +25,5 @@
 7: Introduccion a la terminal y linea de comandos
 	-> 
 Aun faltan mas capitulos para mejorar
+
+Seguimos con los Cursos
